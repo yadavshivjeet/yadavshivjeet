@@ -4,4 +4,4 @@ This is project I did for my master research paper, where I build a Madhav store
 * **Extract the Data:** The Sales Data was from the provided csv.  
 * **Transform the Data:** Power BI's Power Query editor was editor utilized to transform and clean the raw data,making it suitable for analysis.  
 * **Load the Data in Power BI:** The tranform data was loaded into Power BI for visualization and analysis.
-![text if the image fails to load](auto-generated-path-to-file-when-you-upload-image "Text displayed on hover")
+  ![Madhav Stores Dashboard](https://github.com/yadavshivjeet/yadavshivjeet/blob/main/Madhav%20Stores%20Sales%20Dashboard.jpg)
