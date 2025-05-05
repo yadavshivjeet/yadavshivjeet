@@ -1,4 +1,5 @@
-# Shivjeet Yadav Portfolio
+# Shivjeet Yadav
+## Email Id: yadavshivjeet35@gmail.com
 # Hi I am Shivjeet Yadav
 ## Project 1: [Madhav_store_Power_BI_Dashboard](https://github.com/yadavshivjeet/Madhav_store_Power_BI_Dashboard)  
 This is project I did for my master research paper, where I build a Madhav store Power BI Dashboard.  
