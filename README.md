@@ -15,7 +15,7 @@
 ## 🏆 Achievements / Certifications
 - Data Analytics Chatgpt with Power BI-Aspire For Her (Infosys Foundation)![Link](https://github.com/yadavshivjeet/Certification/blob/main/Data_Analytics_ChatGPT_with_Power_BI-Shivjeet_yadav.pdf)
 - 30-Days Excel Crash Course – Learn More Pro![Link](https://github.com/yadavshivjeet/Certification/blob/main/Excel%2030%20Day%20Micro%20Course.pdf)
-- 30-Days Power BI Micro Course – Learn More Pro
+- 30-Days Power BI Micro Course – Learn More Pro![Link](https://github.com/yadavshivjeet/Certification/blob/main/Power%20BI%2030%20Days%20Course.pdf)
 
 
 ## 💼 Projects
