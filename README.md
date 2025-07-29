@@ -5,6 +5,16 @@
 - Passionate about data visualization and analysis
 - Skilled in Excel, SQL, Power BI, Python (Pandas, Matplotlib, Seaborn)
 - Familiar with EDA, ETL, Data Cleaning & Reporting
+  
+## 💻 Technical Skills
+- Excel | Power BI | SQL | Python (Pandas, Matplotlib) | PostgreSQL
+
+## 🧠 Soft Skills
+- Problem Solving | Critical Thinking | Communication
+
+## 🏆 Achievements / Certifications
+- Data Analytics with Python - Coursera
+- Power BI Beginner to Pro - Udemy
 
 ## 💼 Projects
 Here are some of my key projects:
