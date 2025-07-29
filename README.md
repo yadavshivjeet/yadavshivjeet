@@ -7,7 +7,7 @@
 - Familiar with EDA, ETL, Data Cleaning & Reporting
   
 ## 💻 Technical Skills
-- Excel | Power BI | SQL | Python (Pandas, Matplotlib) | PostgreSQL
+- Excel & Advanced Excel | Power BI | SQL | Python (Pandas, Matplotlib,Seaborn) | PostgreSQL
 
 ## 🧠 Soft Skills
 - Problem Solving | Critical Thinking | Communication
