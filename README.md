@@ -13,7 +13,7 @@
 - Problem Solving | Critical Thinking | Communication
 
 ## 🏆 Achievements / Certifications
-- Data Analytics Chatgpt with Power BI-Aspire For Her (Infosys Foundation) 
+- Data Analytics Chatgpt with Power BI-Aspire For Her (Infosys Foundation) (https://github.com/yadavshivjeet/Certification/blob/main/Data_Analytics_ChatGPT_with_Power_BI-Shivjeet_yadav.pdf)
 - 30-Days Excel Crash Course – Learn More Pro 
 - 30-Days Power BI Micro Course – Learn More Pro
 
