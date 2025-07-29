@@ -13,8 +13,8 @@
 - Problem Solving | Critical Thinking | Communication
 
 ## 🏆 Achievements / Certifications
-- Data Analytics Chatgpt with Power BI-Aspire For Her (Infosys Foundation) February 28, 2025
-- 30-Days Excel Crash Course – Learn More Pro January 2, 2025
+- Data Analytics Chatgpt with Power BI-Aspire For Her (Infosys Foundation) 
+- 30-Days Excel Crash Course – Learn More Pro 
 - 30-Days Power BI Micro Course – Learn More Pro
 
 
