@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Shivjeet Yadav
-🎓 Final Year B.C.A. Student | 📊 Aspiring Data Analyst | 📈 Excel & Power BI Enthusiast
+🎓 B.C.A. Student | 📊 Aspiring Data Analyst | 📈 Excel & Power BI Enthusiast
 
 ## 📌 About Me
 - Passionate about data visualization and analysis
@@ -23,7 +23,7 @@ Here are some of my key projects:
 
 ## 📫 How to Reach Me
 - 💼 [LinkedIn](https://linkedin.com/in/your-link)
-- 📧 Email: yourname@gmail.com
+- 📧 Email: yadavshivjeet35@gmail.com
 
 ## Project 1: [Madhav_store_Power_BI_Dashboard](https://github.com/yadavshivjeet/Madhav_store_Power_BI_Dashboard)  
 ## Project 2: [Retail-Sales-Analysis-SQL-Projects](https://github.com/yadavshivjeet/Retail-Sales-Analysis-SQL-Projects)
