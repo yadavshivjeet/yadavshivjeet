@@ -24,5 +24,5 @@ Here are some of my key projects:
 #### Project 2: [Retail-Sales-Analysis-SQL-Projects](https://github.com/yadavshivjeet/Retail-Sales-Analysis-SQL-Projects)
 #### Project 3: [Excel_Coffee_Shop_Analysis](https://github.com/yadavshivjeet/Excel_Coffee_Shop_Analysis)
 ## 📫 How to Reach Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shivjeet-yadav-29b694288)
 - 📧 Email: yadavshivjeet35@gmail.com
