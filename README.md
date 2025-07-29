@@ -13,8 +13,10 @@
 - Problem Solving | Critical Thinking | Communication
 
 ## 🏆 Achievements / Certifications
-- Data Analytics with Python - Coursera
-- Power BI Beginner to Pro - Udemy
+- Data Analytics Chatgpt with Power BI-Aspire For Her (Infosys Foundation) February 28, 2025
+- 30-Days Excel Crash Course – Learn More Pro January 2, 2025
+- 30-Days Power BI Micro Course – Learn More Pro
+
 
 ## 💼 Projects
 Here are some of my key projects:
